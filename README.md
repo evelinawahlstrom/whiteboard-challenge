@@ -2,8 +2,10 @@
 
 ## What this project is about :woman_technologist: 
 
-I made this repository with the aim of helping people prepare for whiteboard (code) challenges. <br/>
-The repo includes some of the most common coding challenges for a junior developer + some of the ones I encountered when applying for my first job. 
+I made this repository with the aim of helping junior developer prepare for whiteboard (code) challenges. <br/>
+The repo includes some of the most common coding challenges for a junior developer (according to a link below <br/>
++ some of the tasks I encountered when applying for my first job as a junior developer.
+
 - Each .js file is divided into a task
 - In each task I break down the task by:
   - 1. Understanding the challenge
@@ -17,13 +19,10 @@ The repo includes some of the most common coding challenges for a junior develop
 
 1. Clone the git repository
 
-`git clone https://github.com/evelinawahlstrom/TheTraveller-client`
+`git clone https://github.com/evelinawahlstrom/whiteboard-challenge`
 
-2. cd into the folder `TheTraveller-client`
+2. cd into the folder `whiteboard-challenge`
 
-3. Run npm install and Before launching the app( with npm start ), please make sure that the server side is up and running.
--  Checkout the **[Server ReadMe](https://github.com/evelinawahlstrom/TheTraveller-server)** to install and run the server.
-
-4. Run npm start. The app runs in the development mode on http://localhost:3000 in the browser.
-
+3. Run node (or nodemon) the specific file you want to test
+- Ex: ``node palindrome.js``
 
