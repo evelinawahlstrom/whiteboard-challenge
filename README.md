@@ -4,7 +4,7 @@
 
 I made this repository with the aim of helping junior developer prepare for whiteboard (code) challenges. <br/>
 The repo includes some of the most common coding challenges for a junior developer (according to a link below <br/>
-+ some of the tasks I encountered when applying for my first job as a junior developer.
+and some of the tasks I encountered when applying for my first job as a junior developer.
 
 - Each .js file is divided into a task
 - In each task I break down the task by:
