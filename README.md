@@ -14,7 +14,7 @@ and some of the tasks I encountered when applying for my first job as a junior d
 
 ## Links 
 - [5 common coding interview challenges](https://www.sitepoint.com/5-common-coding-interview-challenges/)
-- [6 steps to solving any problem](https://www.youtube.com/watch?v=DIR_rxusO8Q)
+- [6 steps to solving any problem during a whiteboard challenge](https://www.youtube.com/watch?v=DIR_rxusO8Q)
 
 ## How to install
 
