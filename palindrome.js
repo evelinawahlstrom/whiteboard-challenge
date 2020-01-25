@@ -6,7 +6,7 @@
     - palindrome('car) === false
 
 2. Reasoning about the challenge:
-    * A challenge resolving around a string that should be reversed and when returned it should either return true if palindrom or false if != palindrom. 
+    * A challenge resolving around a string that should be reversed and when returned it should either return true if palindrome or false if != palindrome. 
 
 3. Start coding
     * Make comments underneath some lines of code to show that you really understand it
