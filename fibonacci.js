@@ -38,4 +38,4 @@ const fibonacci = num => {
     return result[num]
   }
 
-  console.log(fibonacci(7))
+  console.log(fibonacci(9))

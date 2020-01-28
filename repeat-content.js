@@ -21,6 +21,4 @@ let repeat = (arr, repeats) =>
   console.log(repeat([1,2,3], 1))
   console.log(repeat([1,2,3], 2))
   console.log(repeat([1,2,3], 3))
-
-
-  let repeat = (arr, repeats)
+  console.log(repeat([4,5,6], 5))
