@@ -1,7 +1,7 @@
 // 1. Normal function
 
 function sayHi() {
-    return "Hello World!"
+    return "Hello!"
 }
 
 // 2. Arrow function
